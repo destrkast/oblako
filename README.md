@@ -1,5 +1,9 @@
 Test task oblako
 
+enter db  - "sudo -u destrkast psql -d oblako"
+
+git push heroku master
+
 
 # README
 
@@ -27,4 +31,3 @@ Things you may want to cover:
 * ...
 
 
-enter db  - "sudo -u destrkast psql -d oblako"
