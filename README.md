@@ -4,6 +4,9 @@ enter db  - "sudo -u destrkast psql -d oblako"
 
 git push heroku master
 
+heroku run rails db:migrate
+heroku run rails db:seed
+
 
 # README
 
