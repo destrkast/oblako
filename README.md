@@ -1,5 +1,7 @@
 Test task oblako
 
+https://oblako-by-destrkast.herokuapp.com/projects
+
 enter db  - "sudo -u destrkast psql -d oblako"
 
 git push heroku master
